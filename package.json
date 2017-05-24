@@ -1,0 +1,19 @@
+{
+  "name": "strive",
+  "version": "1.0.0",
+  "description": "Voluntary Organisation Search for Strive East Lothian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scvodigital/strive.git"
+  },
+  "author": "Matthew Wilkes (SCVO)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scvodigital/strive/issues"
+  },
+  "homepage": "https://github.com/scvodigital/strive#readme"
+}
