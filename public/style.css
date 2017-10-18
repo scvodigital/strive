@@ -1,7 +1,18 @@
-footer{
-    margin-top:30px;
-    background-color:#fafafa;
-    border-top:1px solid #cccccc;
-    padding:30px;
+body {
+    font-size: 1.3rem;
+    background-color: #fafafa;
 }
-
+header {
+    background-color: #fff;
+    margin: 0 !important;
+    padding: 40px 0 29px;
+}
+article {
+    background-color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer {
+    border-top: 1px solid #cccccc;
+    padding: 30px;
+}
