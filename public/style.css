@@ -5,10 +5,12 @@ body {
 header {
     background-color: #fff;
     margin: 0 !important;
-    padding: 40px 0 29px;
+    padding: 20px 0 15px !important;
+}
+div.page {
+    background-color: #fff;
 }
 article {
-    background-color: #fff;
     padding-top: 30px;
     padding-bottom: 30px;
 }
