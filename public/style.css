@@ -7,6 +7,9 @@ header {
     margin: 0 !important;
     padding: 20px 0 15px !important;
 }
+header img {
+    max-width: 100%;
+}
 div.page {
     background-color: #fff;
 }
